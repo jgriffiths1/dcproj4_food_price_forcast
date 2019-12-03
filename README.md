@@ -1,5 +1,5 @@
-# dcproj4_food_price_forcast
-importing, time series, and forcasting
+# dcproj4_food_price_forecast
+importing, time series, and forecasting
 loc) 11 KB 
 Raw
 Blame
